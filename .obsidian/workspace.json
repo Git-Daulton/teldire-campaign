@@ -107,8 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "4e864b4020caec81",
@@ -184,20 +183,31 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Session 2 - Longing for Something More.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Session 2 - Longing for Something More"
+            }
+          },
+          {
+            "id": "648ea51c08ef4f0d",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -207,22 +217,24 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "8310153675799e0f",
   "lastOpenFiles": [
+    "Session 1 - Of Marrow & Maple.md",
+    "Session 2 - Longing for Something More.md",
+    "Untitled.base",
+    "Session 2 - Longing for Something More.md.tmp.23972.1773875903032",
     "Teldire Bible.md",
     "Zalros - Full Deep Dive.md",
-    "Session 2 - Longing for Something More.md",
     "Character Photos/Zalros.png",
     "Character Photos/Elara.png",
     "Character Photos/Oswald.png",
     "Character Photos/Artemis.png",
-    "Session 1 - Of Marrow & Maple.md",
     "2026-03-15.md",
     "Untitled 1.canvas",
-    "Untitled.base",
     "Untitled 1.base",
     "Untitled.canvas",
     "Character Photos/Vesamir Fig.png",

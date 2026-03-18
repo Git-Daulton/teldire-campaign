@@ -1,3 +1,5 @@
+# Main Session Notes
+
 We returned to the party in front of the two figures in the room they had just unlocked the session prior. Inside the room - which at one point in time appeared to be an old storage room - stood two figurines on pedestals, similar to the party's existing three.
 
 After awakening **Oswald** and **Lacey**, the party discovered the name of the green figure was **Peridot**, and the name of the black figure was **Mars**. The party awakened Peridot first, who seemed confused and upset as to why Samwell was not there. The party then awoke Mars, and they had a discussion to explain the situation. The party explained Samwell's fate, and that the building had likely been broken into given the bodies they encountered earlier. Lacey and Oswald struggled a bit with the concept of death, given it was the first time they had really encountered it.
@@ -50,46 +52,46 @@ Zalros was looking to sell some goods that he had found in the demiplane and mad
 Returning to Drakka, they found themselves outside of the auction house awaiting Rosetta. Rosetta stepped out of a horse-drawn carriage outside of the auction house with her sisters, Georgette and Janet. They made their way inside the auction house, where Rosetta bid outlandish amounts of money on items. Eventually, a coffin was dragged on stage; Rosetta claimed that this was the very reason she was there - to purchase this coffin. As the coffin was dragged onto the stage, it began to shake and rattle violently! The chains and bindings sealing it shut began to fall off, and eventually the coffin cracked open. What might be inside? We'll have to wait until the next session to find out! That's where we'll end things for this time!
 
 ---
-
-## Some things to potentially revisit later:
+# Some things to potentially revisit later:
 
 - **The rattling coffin** - The session's biggest cliffhanger. A coffin Rosetta specifically traveled to acquire began violently shaking, shed its chains, and cracked open at center stage. Whatever is inside, it clearly did not want to stay put. Does Rosetta know what's in it? Did she expect this, or is she just as shocked as everyone else?
 
-- **Rosetta's motivations** - She arrived on her birthday with her sisters Georgette and Janet, bid aggressively on several items, and seemed singularly focused on acquiring that particular coffin above all else. What is her connection to whatever was sealed inside? This almost certainly won't be the last the party hears from her.
+- **The teleportation circle in Samwell's storage room** - Brog completed the circle with ether chalk, but the party wisely chose not to use it while already exhausted from the demiplane. That circle leads somewhere; worth returning to when better rested and prepared.
 
-- **Peridot going off alone** - After the second Helmed Horror was felled, Peridot quietly left the party and made her way back to the beginning of the tower on her own. No explanation was given, and no one followed. Where did she go, and will she catch back up with the group? Given how upset she was about Samwell's fate, there may be more to her solitary investigation than meets the eye.
+- **Chisum, the curiosities vendor** - Zalros agreed to visit Chisum's home to investigate some goods further. Whether this is purely professional remains to be seen; Chisum seemed quite taken with Zalros, who remained cheerfully, blissfully unaware. Either way, a private meeting at someone's home is worth being at least a little curious about.
 
-- **The teleportation circle in Samwell's storage room** - Brog completed the circle with ether chalk, but the party wisely chose not to use it while already exhausted from the demiplane. That circle leads *somewhere* - and someone clearly intended for it to be there. Worth returning to when better rested and prepared.
+- **Asta Vale (Elara's sister)** - Jarvis promised to reach back out to Elara using his calling stone after digging up information on her sister. Jarvis seems trustworthy enough, but who exactly is he, and how deep do his connections run?
 
-- **Chisum, the curiosities vendor** - Zalros agreed to visit Chisum's home to investigate some goods further. Whether this is purely professional remains to be seen - Chisum seemed quite taken with Zalros, who remained cheerfully, blissfully unaware. Either way, a private meeting at someone's home is worth being at least a little curious about.
+- **The mystery scrolls (purple and green)** - Elara picked these up on the cheap precisely because nobody knows what they do. Whatever effects they hold, Zalros or Chisum may be able to discover them first.
 
-- **Asta Vale - Elara's sister** - Jarvis promised to put his calling stone to use and dig up information on her. We don't yet know why Elara is searching for her, what happened, or whether Asta Vale is safe. Jarvis seems trustworthy enough, but who exactly is he, and how deep do his connections run?
-
-- **The mystery scrolls (purple and green)** - Elara picked these up on the cheap precisely because nobody knows what they do. Whatever effects they hold, the moment they get used is bound to be interesting - or chaotic, or both.
-
-- **The Kiln and the Temple of the Jeering Sparrow** - Samwell sent Zalros a map shaped suspiciously like his own birthsign, tracing the path of a centuries-old walking golem that houses a temple to the very deity Zalros is bound to. This feels less like a coincidence and more like an invitation. The party knows it's out there - it's only a matter of when they decide to go looking.
+- **The Kiln and the Temple of the Jeering Sparrow** - Samwell sent Zalros a map shaped suspiciously like his own birthsign, tracing the path of a centuries-old walking golem that houses a temple to the very deity Zalros is bound to. 
 
 - **The Sunderland boy's goose** - A young boy and his father are feeding a goose cockatrice eggs to fatten it up for a local contest. Cockatrice eggs. Fed to a goose. For a contest. This may resolve itself without incident - or it may not, and the party may want to remember this one.
 
-- **The sealed dugout** - The party's original job site was barricaded and marked off by the guild before they could even reach it. What happened there while they were away in the demiplane? The guild sealed it for a reason, and nobody has explained why.
-
-- **Brog's farm** - He promised his mother he'd help put things right, and she'd been stretched thin managing the farm alone while the party was gone. Local kids causing trouble, animals to tend to, and now a new truffle pig to settle in - Brog has a home life that isn't going to wait forever.
-
 ---
-
-## Key Loot / Items:
+# Key Loot / Items:
 
 - **Longsword +3** - A beautifully storied weapon with three gem slots that determine its damage type on each hit. Normal rocks placed in the slots will slowly transform into gems over 1d4 months. Requires attunement. (The party has also collectively decided it is Jewish and celebrates Hanukkah.)
+
 - **Mystery Scrolls - Purple & Green** - Purchased by Elara at a discount due to entirely unknown effects. Handle with appropriate curiosity.
+
 - **Jarvis' Calling Stone** - Given to Elara by Jarvis at the adventurer's guild; he promised to use it to relay information about Asta Vale, Elara's missing sister.
+
 - **Map to The Kiln / Temple of the Jeering Sparrow** - Sent to Zalros directly by Samwell. Shaped like Zalros's birthsign and traces the ancient path of a colossal, wandering golem that houses the temple at its heart.
+
 - **Samwell's "Grant Existence" Instructions** - Provided to Brog; a complex spell to animate figurine carvings in the manner of Samwell's companions. A long-term project, but one Brog has committed to pursuing.
-- **Peridot** - Awakened green figurine, new companion to the party. Currently off on her own somewhere in or around the tower.
-- **Mars** - Awakened charcoal figurine, new companion to the party. Eager for a fight and slightly miffed he missed the finishing blow on the second Helmed Horror.
+
 - **Truffle-hunting pig** - Selected personally by Brog after a conversation with the lot of them. Now headed to the family farm.
-- **Single flower** - Purchased by Drakka as a birthday gift for Rosetta in lieu of the 40 GP perfume.
+
 - **Bottled immortal ants** - Two criminal former-humans, cursed into ant form by Samwell and declared immortal. Corked in a vial with chalk and rammed back into their colony. Contained, for now.
 
-**Notable losses this session:**
+---
+# **Notable losses this session:**
+
 - **Scroll of the Three Principles** - A culturally significant relic from Drakka's people, destroyed on contact when Elara rolled a Natural 1 attempting to recover it carefully. It will not be coming back.
+
 - **Elara's thieves' tools** - Melted clean off by the arcane lock protecting the longsword display. A worthy sacrifice, arguably.
+
+---
+# Next Session Recap:
+

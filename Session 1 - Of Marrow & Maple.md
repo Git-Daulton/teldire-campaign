@@ -1,3 +1,5 @@
+# Main Session Notes
+
 The party found themselves transported back to Teldire, arriving in front of Samwell's old abode. In front of them stood a modest, aged cottage with an attached two-story tower. Taking but a moment to enjoy the familiar air and golden-wheat field scenery, Zalros began by making his way to the front of the door. The door appeared already opened and very slightly ajar, with evidence of force being used to open the door.
 
 Peeking his head in slightly, Zalros immediately toke note of a few shapes in the dark cabin:
@@ -70,3 +72,25 @@ Once safe, the party took a moment to consume some healing potions and take a mo
 After giving the ant-people a pinch of birdseed, the party continued to another room which contained a grand arcane lock. This matched the key that Zalros had from Samuel; opening the door, the party found two podiums with cushions. One held a small wooden figure painted the colour of charcoal, the other held a figure painted green. 
 
 Before the session ended, Brog had heard some clanking and footsteps from a hallway further ahead. The party had began to think a bit about the encounter; it was likely the broken vases on the first floor which had summoned these creations. With two vases broken, it's safe to assume there is likely another one waiting for the party ahead! With the session ended, we'll have to wait until next time to find out!
+
+---
+
+# Some things to potentially revisit later:
+
+- The porcelain doll that “only wanted candy” from Brog
+- The candlestick and silver vase with blue marbles
+- The two scrying portals; Zalros identified one, but what was the other?
+- The goldfish with the dragon head and silver scale that Elara found
+
+---
+
+# Key Loot / Items:
+
+- Gem of Brightness (held by Shamash)
+- Two scrying portals
+- Brog’s biology books
+- Zalros’ abberations book
+- Two human-polymorphed ants
+- Brog’s woodworking tools & dove maple
+- Fey mushrooms
+- Most importantly: Elara’s pocket of birdseed!
