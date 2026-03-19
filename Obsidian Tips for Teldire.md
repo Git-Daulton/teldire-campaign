@@ -149,7 +149,46 @@ These render as colored, collapsible boxes in Obsidian's reading view. They're g
 
 ---
 
-## 5. Embedded Links and Images (`![[]]`)
+## 5. Block IDs (`^block-id`) - Bookmark Any Paragraph
+
+This is incredibly handy for session notes. Add a `^block-id` on a blank line after any paragraph to create a "bookmark" you can link to from anywhere.
+
+**Step 1:** Tag the paragraph where something happens:
+```markdown
+Zalros drew the constellation on the glass case using his Illuminator's
+Tattoo, and the glass case opened. ^longsword-found
+```
+
+**Step 2:** Link to it from your loot section, another session, or anywhere:
+```markdown
+- **Longsword +3** - Three gem slots, requires attunement.
+  ([[#^longsword-found|Where we found it]])
+```
+
+The `#` means "this file" - for cross-file links, use the full filename:
+```markdown
+([[Session 2 - Mutual Ache for Something More#^longsword-found|Where we found it]])
+```
+
+**Naming tips:**
+- Keep IDs short but descriptive: `^longsword-found`, `^chisum-met`, `^coffin-cliffhanger`
+- Use lowercase with hyphens (no spaces)
+- The block ID line must be on its own line with a blank line before it
+
+You can also build a **Locations Visited** table using block IDs to show every time a place comes up:
+
+```markdown
+| Location | Visits |
+|---|---|
+| Samwell's Storage Room | [[#^storage-room-figurines|Figurines]], [[#^storage-room-teleportation-circle|Teleportation circle]] |
+| Gosslupe Market | [[#^gobblin-it-up|Gobblin' it Up]], [[#^pig-purchased|Brog's pig]], [[#^mystery-scrolls-purchased|Scrolls]] |
+```
+
+Check out the **Session 2 - Example With Obsidian Features** file in this branch to see all of this wired up and working!
+
+---
+
+## 6. Embedded Links and Images (`![[]]`)
 
 You've got character photos in your `Character Photos/` folder already. You can embed them directly in your notes!
 
@@ -165,7 +204,7 @@ The `|200` controls the width in pixels. This works for images and for embedding
 
 ---
 
-## 6. Putting It All Together - A Real Example
+## 7. Putting It All Together - A Real Example
 
 Here's what a paragraph from your Session 2 notes could look like using all of these features:
 
@@ -187,7 +226,7 @@ Notice how the narrative stays clean and readable, the links create a web of con
 
 ---
 
-## 7. Recommended Vault Structure
+## 8. Recommended Vault Structure
 
 As your campaign grows, consider organizing like this:
 
@@ -240,6 +279,8 @@ You don't need to set all of this up at once. The beauty of Obsidian is that you
 | Embed page | `![[Page Name]]` | Embeds another page's content |
 | Callout | `> [!type] Title` | Colored info box (tip, warning, info, etc.) |
 | Frontmatter | `---` block at top | Metadata (tags, date, session number) |
+| Block ID | `^my-block-id` | Bookmark a paragraph for linking |
+| Block link | `[[#^block-id\|text]]` | Jump to a bookmarked paragraph |
 | Checkbox | `- [ ] Task here` | Interactive checklist item |
 
 Happy note-taking! Your session notes are already really solid narratively - these tools will just help you connect the dots across sessions as the campaign grows.
