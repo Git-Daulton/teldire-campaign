@@ -12,6 +12,21 @@ aliases:
 
 ![[Zalros.png|250]]
 
+---
+## Table of Contents
+
+> [[#At a Glance]] 
+> [[#Personality]] 
+> [[#Backstory]] 
+> [[#Memory Rules]] 
+> [[#Pre-Campaign Connections]] 
+> [[#Earlier History (Blurry)]] 
+> [[#The Shamash "Muscle Memory" Hook]] 
+> [[#Abilities & Magic]] 
+> [[#Session Appearances]] 
+> [[#Current Goals (Post-Session 2)]]
+
+---
 ## At a Glance
 
 |            **Race** | Human                               |
@@ -28,12 +43,6 @@ aliases:
 |          **Patron** | The Jeering Sparrow                 |
 
 ---
-
-> **Contents**
-> [[#Personality]] | [[#Backstory]] | [[#Memory Rules]] | [[#Pre-Campaign Connections]] | [[#Earlier History (Blurry)]] | [[#The Shamash "Muscle Memory" Hook]] | [[#Abilities & Magic]] | [[#Session Appearances]] | [[#Current Goals (Post-Session 2)]]
-
----
-
 ## Personality
 
 Zalros is an endlessly cheerful soul who finds joy in nearly everything. He loves music (primarily the lute), poetry, and jokes. He can occasionally slip into a moment of melancholy when things turn serious, but he bounces back to his warm, positive self quickly.
