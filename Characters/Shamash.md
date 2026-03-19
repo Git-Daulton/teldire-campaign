@@ -45,9 +45,6 @@ Despite the boisterous exterior, he can turn serious fast when duty demands it. 
 
 He silently looks up to each of his party members and is content to step aside and let what he considers a crew of brilliant minds take charge, stepping in when his input is needed.
 
-> [!info] Player Note
-> Shamash is played by Nikole, Daulton's partner. This is her first time playing D&D. She may narrate actions rather than perform loud voice/RP - and that's totally fine!
-
 ---
 ## Backstory
 

@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Zalros.md",
+                "file": "Session Notes/Session 1 - Of Marrow & Maple.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Zalros"
+              "title": "Session 1 - Of Marrow & Maple"
+            }
+          },
+          {
+            "id": "d4889aab6289361c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Shamash.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Shamash"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -53,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#inforequired",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -192,45 +207,49 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d769cf850bed69ff",
+  "active": "d4889aab6289361c",
   "lastOpenFiles": [
-    "Characters/Zalros.md.tmp.34640.1773885417095",
-    "Pre-Session 1 Snapshot.md",
     "Characters/Zalros.md",
-    "Characters/Zalros.md.tmp.34640.1773884977962",
-    "Characters",
-    "Session Notes/Session 2 - Mutual Ache for Something More.md",
+    "Characters/Shamash.md",
+    "Characters/Elara.md",
+    "Characters/Drakka.md",
+    "Characters/Brog.md",
+    "Characters/Brog.md.tmp.34640.1773888562393",
+    "Characters/Brog.md.tmp.34640.1773888562038",
+    "Characters/Brog.md.tmp.34640.1773888561909",
+    "Characters/Brog.md.tmp.34640.1773888561233",
+    "Characters/Brog.md.tmp.34640.1773888560822",
+    "Characters/Brog.md.tmp.34640.1773888560336",
+    "Characters/Brog.md.tmp.34640.1773888559782",
+    "Characters/Drakka.md.tmp.34640.1773888554754",
+    "Characters/Drakka.md.tmp.34640.1773888554128",
+    "Characters/Drakka.md.tmp.34640.1773888553475",
     "Session Notes/Session 1 - Of Marrow & Maple.md",
-    "Session Notes",
+    "Session Notes/Session 2 - Mutual Ache for Something More.md",
+    "Pre-Session 1 Snapshot.md",
     "Obsidian Tips for Teldire.md",
     "Character Photos/PCs/Zalros.png",
     "Character Photos/PCs/Shamash.png",
     "Character Photos/PCs/Elara.png",
     "Character Photos/PCs/Drakka.png",
     "Character Photos/PCs/Brog.png",
-    "Character Photos/PCs",
     "Character Photos/NPCs/Vesamir Fig.png",
     "Character Photos/NPCs/Tessa.png",
     "Character Photos/NPCs/Miragyrx.png",
     "Character Photos/NPCs/Jarvis.png",
     "Character Photos/NPCs/General Store Clerk.png",
-    "Character Photos/NPCs",
-    "Character Photos/Figurine Companions",
     "Character Lore/Zalros - Full Deep Dive.md",
-    "Character Lore",
+    "AGENTS.md",
     "Zalros - Full Deep Dive.md",
     "Teldire Bible.md",
     "Session 2 - Longing for Something More.md",
     "Session 1 - Of Marrow & Maple.md",
     "ETC/Shamash Claude Prompt (LV7).md",
-    "ETC",
     "Helmed Horror.md",
     "Longsword +3.md",
     "Samwell.md",
     "Session 2 - Example With Obsidian Features.md",
-    "Untitled 1.base",
     "Untitled.canvas",
-    "Untitled.base",
     "2026-03-15.md",
     "Untitled 1.canvas",
     "Skeleton Crew - Session 1 Snapshot.md",
