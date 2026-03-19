@@ -25,13 +25,13 @@ aliases:
 ---
 ## At a Glance
 
-|            **Race** | *Needs more info*    |
+|            **Race** | #inforequired    |
 | ------------------: | -------------------- |
 |           **Class** | Rogue (Thief)        |
-|      **Background** | *Needs more info*    |
-|             **Age** | *Needs more info*    |
-| **Height / Weight** | *Needs more info*    |
-|       **Languages** | *Needs more info*    |
+|      **Background** | #inforequired    |
+|             **Age** | #inforequired    |
+| **Height / Weight** | #inforequired    |
+|       **Languages** | #inforequired    |
 
 ---
 ## Personality
@@ -45,7 +45,7 @@ She has a dry wit and isn't easily shaken. When [[Drakka]] threw a spider specim
 ---
 ## Backstory
 
-*Needs more info - ask the player for their full backstory!*
+#inforequired - Full backstory needed
 
 What we know: Elara has a sister named **Asta Vale** who she is searching for. The two split paths at some point - Elara went to the frontier, while her sister stayed behind. The session 3 flashback revealed that Elara re-lived the final night she and her sister spoke, and she was acutely aware it would be the last time before they parted ways.
 
@@ -56,7 +56,7 @@ She also seems to relate to Miragryx's eagerness to return home - both share a d
 ---
 ## Pre-Campaign Connections
 
-*Needs more info - does Elara know any of the other PCs or NPCs from before the campaign? Ask the player!*
+#inforequired - Pre-campaign connections unknown
 
 ---
 ## Abilities & Magic
@@ -69,7 +69,7 @@ She also seems to relate to Miragryx's eagerness to return home - both share a d
 
 ### Weapons
 - Bow and arrows (primary)
-- *Other weapons? Needs more info*
+- #inforequired - Other weapons unknown
 
 ### Items of Note
 - **Jarvis' Calling Stone** - Given by [[Jarvis]] to relay information about Asta Vale
@@ -90,26 +90,26 @@ She also seems to relate to Miragryx's eagerness to return home - both share a d
 - **Flashback:** Re-lived the final night with her sister - the last time they spoke before their paths diverged; knew this was the moment before she left for the frontier and her sister stayed behind
 
 ### Session 1 - [[Session 1 - Of Marrow & Maple|Of Marrow & Maple]]
-- Joined [[Zalros]] in entering Samwell's cottage, triggering the sensor lights
-- Found the sliding door room containing geodes, the dragon-headed goldfish, and a fossil piece
-- Found an amethyst geode worth ~15 gp
-- Took a pocket full of birdseed (which has proven endlessly useful)
-- Examined bodies throughout the basement, finding gold, silver, and a silver dagger
-- Found the final fossil pieces and completed one of the displays
+- Joined [[Zalros]] in entering Samwell's cottage, triggering the sensor lights ([[Session 1 - Of Marrow & Maple#^cottage-interior|Jump to scene]])
+- Found the sliding door room containing geodes, the dragon-headed goldfish, and a fossil piece ([[Session 1 - Of Marrow & Maple#^sliding-door-room|Jump to scene]])
+- Found an amethyst geode worth ~15 gp ([[Session 1 - Of Marrow & Maple#^amethyst-geode|Jump to scene]])
+- Took a pocket full of birdseed (which has proven endlessly useful) ([[Session 1 - Of Marrow & Maple#^amethyst-geode|Jump to scene]])
+- Examined bodies throughout the basement, finding gold, silver, and a silver dagger ([[Session 1 - Of Marrow & Maple#^jerry-discovered|Jump to scene]])
+- Found the final fossil pieces and completed one of the displays ([[Session 1 - Of Marrow & Maple#^fossil-placed|Jump to scene]])
 
 ### Session 2 - [[Session 2 - Mutual Ache for Something More|Mutual Ache for Something More]]
-- Threw birdseed to draw the attention of the Helmed Horror
-- Attempted to recover the Scroll of the Three Principles - rolled a Natural 1, crumbling it to dust
-- Attempted to pick the arcane lock on the longsword display, melting her thieves' tools
-- Chased the escaping ants and stomped on them (they were unharmed)
-- Visited "Gobblin' it Up" and got a massive bowl of stew for 1 CP
-- Purchased arrows and mystery scrolls (purple and green) at a general store
-- Met [[Jarvis]] at the adventurer's guild and received his calling stone
-- Jarvis promised to find information on her sister, Asta Vale
+- Threw birdseed to draw the attention of the Helmed Horror ([[Session 2 - Mutual Ache for Something More#^helmed-horror-fight|Jump to scene]])
+- Attempted to recover the Scroll of the Three Principles - rolled a Natural 1, crumbling it to dust ([[Session 2 - Mutual Ache for Something More#^scroll-destroyed|Jump to scene]])
+- Attempted to pick the arcane lock on the longsword display, melting her thieves' tools ([[Session 2 - Mutual Ache for Something More#^museum-room|Jump to scene]])
+- Chased the escaping ants and stomped on them (they were unharmed) ([[Session 2 - Mutual Ache for Something More#^ants-bottled|Jump to scene]])
+- Visited "Gobblin' it Up" and got a massive bowl of stew for 1 CP ([[Session 2 - Mutual Ache for Something More#^gobblin-it-up|Jump to scene]])
+- Purchased arrows and mystery scrolls (purple and green) at a general store ([[Session 2 - Mutual Ache for Something More#^mystery-scrolls-purchased|Jump to scene]])
+- Met [[Jarvis]] at the adventurer's guild and received his calling stone ([[Session 2 - Mutual Ache for Something More#^jarvis-met|Jump to scene]])
+- Jarvis promised to find information on her sister, Asta Vale ([[Session 2 - Mutual Ache for Something More#^jarvis-met|Jump to scene]])
 
 ---
 ## Current Goals (Post-Session 2)
 
 - **Long-term:** Find her sister, Asta Vale. [[Jarvis]] has promised to dig up information using his calling stone.
-- **Short-term:** *Needs more info - ask the player!*
-- **Personal:** *Needs more info*
+- **Short-term:** #inforequired
+- **Personal:** #inforequired

@@ -34,7 +34,7 @@ aliases:
 | **Height / Weight** | 6'02" / 300 lbs                |
 |            **Eyes** | Light blue                     |
 |      **Appearance** | Shiny blue scales              |
-|       **Languages** | *Needs more info*              |
+|       **Languages** | #inforequired              |
 
 ---
 ## Personality
@@ -44,9 +44,6 @@ Shamash is friendly, hearty, and larger than life. He laughs too loud, talks too
 Despite the boisterous exterior, he can turn serious fast when duty demands it. He's a soldier through and through - experienced, dependable, and quietly protective of those around him.
 
 He silently looks up to each of his party members and is content to step aside and let what he considers a crew of brilliant minds take charge, stepping in when his input is needed.
-
-> [!info] Player Note
-> Shamash is played by Nikole, Daulton's partner. This is her first time playing D&D. She may narrate actions rather than perform loud voice/RP - and that's totally fine!
 
 ---
 ## Backstory
@@ -100,20 +97,20 @@ His real dream? A peaceful retirement. Somewhere secluded, in the middle of nowh
 - **Flashback:** Re-lived a memory of protecting a village from lions; discovered soldiers illegally trying to sell lion cubs for profit; chose to stop them and save the cubs
 
 ### Session 1 - [[Session 1 - Of Marrow & Maple|Of Marrow & Maple]]
-- Found a hollowed-out book containing a small arcane key
-- Used the communion stone to contact [[Samwell]] and ask about Jerry and the bodies
-- Found the longsword encased in a locked glass display
-- Fought the first Helmed Horror alongside [[Drakka]]
+- Found a hollowed-out book containing a small arcane key ([[Session 1 - Of Marrow & Maple#^specimen-room|Jump to scene]])
+- Used the communion stone to contact [[Samwell]] and ask about Jerry and the bodies ([[Session 1 - Of Marrow & Maple#^jerry-discovered|Jump to scene]])
+- Fought the first Helmed Horror alongside [[Drakka]] ([[Session 1 - Of Marrow & Maple#^helmed-horror-fight|Jump to scene]])
 
 ### Session 2 - [[Session 2 - Mutual Ache for Something More|Mutual Ache for Something More]]
-- Fired a Ray of Frost at the second Helmed Horror
-- Made a decisive critical blow against the Helmed Horror, severing the energy holding the construct together in a single strike
-- Helped return a dropped crate of eggs to a Sunderland boy and his father at the Gosslupe gates
-- Reunited with [[Elara]] and [[Zalros]] for a meal in the city
+- Fired a Ray of Frost at the second Helmed Horror ([[Session 2 - Mutual Ache for Something More#^helmed-horror-fight|Jump to scene]])
+- Made a decisive critical blow against the Helmed Horror, severing the energy holding the construct together in a single strike ([[Session 2 - Mutual Ache for Something More#^helmed-horror-fight|Jump to scene]])
+- Found the longsword encased in a locked glass display ([[Session 2 - Mutual Ache for Something More#^museum-room|Jump to scene]])
+- Helped return a dropped crate of eggs to a Sunderland boy and his father at the Gosslupe gates ([[Session 2 - Mutual Ache for Something More#^gosslupe-arrival|Jump to scene]])
+- Reunited with [[Elara]] and [[Zalros]] for a meal in the city ([[Session 2 - Mutual Ache for Something More#^pig-purchased|Jump to scene]])
 
 ---
 ## Current Goals (Post-Session 2)
 
 - **Long-term:** Save enough gold to purchase his own secluded little paradise and retire in peace.
-- **Short-term:** *Needs more info - ask Nikole!*
-- **Personal:** *Needs more info*
+- **Short-term:** #inforequired
+- **Personal:** #inforequired

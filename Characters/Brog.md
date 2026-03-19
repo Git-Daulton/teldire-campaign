@@ -28,9 +28,9 @@ aliases:
 |            **Race** | Half-orc             |
 | ------------------: | -------------------- |
 |           **Class** | Druid (Homebrew)     |
-|      **Background** | *Needs more info*    |
-|             **Age** | *Needs more info*    |
-| **Height / Weight** | *Needs more info*    |
+|      **Background** | #inforequired    |
+|             **Age** | #inforequired    |
+| **Height / Weight** | #inforequired    |
 |       **Languages** | Common, + *others?*  |
 
 ---
@@ -45,14 +45,14 @@ Despite his gentle nature, Brog will turn fierce when it matters. He once blew t
 ---
 ## Backstory
 
-*Needs more info - ask the player for their backstory!*
+#inforequired - Full backstory needed
 
 What we do know: Brog owns a farm back in Teldire and works to protect the animals that inhabit it and the surrounding woods. He lives with his mother, who runs a market stall in Gosslupe.
 
 ---
 ## Pre-Campaign Connections
 
-*Needs more info - does Brog know any of the other PCs from before the campaign? Ask the player!*
+#inforequired - Pre-campaign connections unknown
 
 - **Brog's Mom** - His mother, who runs a stall at the Gosslupe market. She was worried sick when the party was away for several days.
 
@@ -69,7 +69,7 @@ Brog's Wild Shape has been substituted/altered toward **summoning-based play** r
 - **Ritual Casting** - Used to summon familiars
 
 ### Spells Observed in Play
-- *Full spell list needs more info - ask the player!*
+- #inforequired - Full spell list
 
 ---
 ## Session Appearances
@@ -83,24 +83,24 @@ Brog's Wild Shape has been substituted/altered toward **summoning-based play** r
 - **Flashback:** Found a grassy mound that was actually a sleeping hill giant; in the original memory, he left it asleep; in the revisited version, chose to wake it so it could protect the forest from an unnamed future threat
 
 ### Session 1 - [[Session 1 - Of Marrow & Maple|Of Marrow & Maple]]
-- Heard the porcelain doll say "I only wanted candy..."
-- Found books on creature/monster biology
-- Summoned two familiars (bat-like creature and pseudodragon named Hootie) to scout ahead
-- Confirmed the fossil-bookcase connection
-- Communicated with the two polymorphed ants, brokering a deal to free them in exchange for fossil pieces
-- Found dove maple and fine carpenter's tools behind the fish fossil
-- Consumed one too many fey mushrooms, briefly seeing a door to another dimension shimmer in and out of existence
+- Heard the porcelain doll say "I only wanted candy..." ([[Session 1 - Of Marrow & Maple#^porcelain-doll|Jump to scene]])
+- Found books on creature/monster biology ([[Session 1 - Of Marrow & Maple#^specimen-room|Jump to scene]])
+- Summoned two familiars (bat-like creature and pseudodragon named Hootie) to scout ahead ([[Session 1 - Of Marrow & Maple#^basement-bodies|Jump to scene]])
+- Confirmed the fossil-bookcase connection ([[Session 1 - Of Marrow & Maple#^fossil-connection|Jump to scene]])
+- Communicated with the two polymorphed ants, brokering a deal to free them in exchange for fossil pieces ([[Session 1 - Of Marrow & Maple#^ant-people-found|Jump to scene]])
+- Found dove maple and fine carpenter's tools behind the fish fossil ([[Session 1 - Of Marrow & Maple#^dove-maple-found|Jump to scene]])
+- Consumed one too many fey mushrooms, briefly seeing a door to another dimension shimmer in and out of existence ([[Session 1 - Of Marrow & Maple#^fey-mushrooms|Jump to scene]])
 
 ### Session 2 - [[Session 2 - Mutual Ache for Something More|Mutual Ache for Something More]]
-- Summoned a small version of Jerry during the Helmed Horror fight
-- Was teleported by [[Zalros]] via Shadow Step (felt nauseous)
-- Returned to the storage room and noted the teleportation circle; helped complete it with ether chalk
-- Checked on the ants and climbed the tower to investigate their story, growing suspicious
-- Bottled the immortal ants in a vial after they tried to escape
-- Received instructions from [[Samwell]] on how to perform "Grant Existence"
-- Purchased a truffle-hunting pig at the Gosslupe market, speaking with the pigs directly to choose one
-- Returned to the farm to find his mother worried sick and the property in disrepair
-- Promised to help right the farm and told his mother to rest
+- Summoned a small version of Jerry during the Helmed Horror fight ([[Session 2 - Mutual Ache for Something More#^helmed-horror-fight|Jump to scene]])
+- Was teleported by [[Zalros]] via Shadow Step (felt nauseous) ([[Session 2 - Mutual Ache for Something More#^helmed-horror-fight|Jump to scene]])
+- Returned to the storage room and noted the teleportation circle; helped complete it with ether chalk ([[Session 2 - Mutual Ache for Something More#^storage-room-teleportation-circle|Jump to scene]])
+- Checked on the ants and climbed the tower to investigate their story, growing suspicious ([[Session 2 - Mutual Ache for Something More#^ants-bottled|Jump to scene]])
+- Bottled the immortal ants in a vial after they tried to escape ([[Session 2 - Mutual Ache for Something More#^ants-bottled|Jump to scene]])
+- Received instructions from [[Samwell]] on how to perform "Grant Existence" ([[Session 2 - Mutual Ache for Something More#^grant-existence-learned|Jump to scene]])
+- Purchased a truffle-hunting pig at the Gosslupe market, speaking with the pigs directly to choose one ([[Session 2 - Mutual Ache for Something More#^pig-purchased|Jump to scene]])
+- Returned to the farm to find his mother worried sick and the property in disrepair ([[Session 2 - Mutual Ache for Something More#^brog-farm-return|Jump to scene]])
+- Promised to help right the farm and told his mother to rest ([[Session 2 - Mutual Ache for Something More#^brog-farm-return|Jump to scene]])
 
 ---
 ## Current Goals (Post-Session 2)
@@ -108,4 +108,4 @@ Brog's Wild Shape has been substituted/altered toward **summoning-based play** r
 - **Long-term:** Master the "Grant Existence" spell from [[Samwell]]'s instructions - a very long and challenging process, but one he's committed to pursuing.
 - **Short-term:** Get the farm back in order and help his mother after their time away.
 - **Personal:** Bond with and train alongside [[Oswald]], who bonded closely with Brog during the demiplane.
-- *Ask the player for more goals!*
+- #inforequired - Additional goals

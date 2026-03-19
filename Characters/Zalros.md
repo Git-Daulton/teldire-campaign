@@ -159,25 +159,25 @@ Prestidigitation, Mage Hand, Mending, Light, Sacred Flame, Mind Sliver, Control 
 - **Flashback:** Talked with Benadeer at an inn; convinced him to stay longer. Benadeer asked about Vesamear Fig and a recent experiment involving a transfigured crow; the memory ended shortly after
 
 ### Session 1 - [[Session 1 - Of Marrow & Maple|Of Marrow & Maple]]
-- Led the way into [[Samwell]]'s cottage, first to peek inside
-- Found a book granting advantage against aberrations
-- Cast Identify on the Gem of Brightness and the scrying portal
-- Cleaned blood off a corpse with Prestidigitation, identifying it as a plains marauder
+- Led the way into [[Samwell]]'s cottage, first to peek inside ([[Session 1 - Of Marrow & Maple#^cottage-arrival|Jump to scene]])
+- Found a book granting advantage against aberrations ([[Session 1 - Of Marrow & Maple#^specimen-room|Jump to scene]])
+- Cast Identify on the Gem of Brightness ([[Session 1 - Of Marrow & Maple#^gem-of-brightness|Jump to scene]]) and the scrying portal ([[Session 1 - Of Marrow & Maple#^scrying-portal|Jump to scene]])
+- Cleaned blood off a corpse with Prestidigitation, identifying it as a plains marauder ([[Session 1 - Of Marrow & Maple#^basement-bodies|Jump to scene]])
 - Used Prestidigitation throughout the basement exploration
-- Took some nasty hits from the Helmed Horror alongside [[Drakka]]
-- Had the key from [[Samwell]] that opened the final arcane lock to the figurine room
+- Took some nasty hits from the Helmed Horror alongside [[Drakka]] ([[Session 1 - Of Marrow & Maple#^helmed-horror-fight|Jump to scene]])
+- Had the key from [[Samwell]] that opened the final arcane lock to the figurine room ([[Session 1 - Of Marrow & Maple#^figurine-room-found|Jump to scene]])
 
 ### Session 2 - [[Session 2 - Mutual Ache for Something More|Mutual Ache for Something More]]
-- Used Shadow Step to teleport [[Brog]] away from the second Helmed Horror (Brog felt nauseous)
-- Studied the teleportation circle in the storage room alongside [[Brog]]
-- Identified the arcane lock on the longsword display case
-- Drew the Sign of the Swordsman constellation on the glass case using his Illuminator's Tattoo, unlocking it
-- Identified the Longsword +3
-- Helped return a dropped crate of eggs to a Sunderland boy and his father at the Gosslupe gates
-- Received a map to The Kiln / Temple of the Jeering Sparrow from [[Samwell]]
-- Met [[Chisum]] at a curiosities and alchemist shop while trying to sell demiplane goods
-- Agreed to visit [[Chisum]]'s home to further investigate some items
-- Remained cheerfully, blissfully oblivious to Chisum's apparent interest in him
+- Used Shadow Step to teleport [[Brog]] away from the second Helmed Horror (Brog felt nauseous) ([[Session 2 - Mutual Ache for Something More#^helmed-horror-fight|Jump to scene]])
+- Studied the teleportation circle in the storage room alongside [[Brog]] ([[Session 2 - Mutual Ache for Something More#^storage-room-teleportation-circle|Jump to scene]])
+- Identified the arcane lock on the longsword display case ([[Session 2 - Mutual Ache for Something More#^longsword-found|Jump to scene]])
+- Drew the Sign of the Swordsman constellation on the glass case using his Illuminator's Tattoo, unlocking it ([[Session 2 - Mutual Ache for Something More#^longsword-found|Jump to scene]])
+- Identified the Longsword +3 ([[Session 2 - Mutual Ache for Something More#^longsword-found|Jump to scene]])
+- Helped return a dropped crate of eggs to a Sunderland boy and his father at the Gosslupe gates ([[Session 2 - Mutual Ache for Something More#^gosslupe-arrival|Jump to scene]])
+- Received a map to The Kiln / Temple of the Jeering Sparrow from [[Samwell]] ([[Session 2 - Mutual Ache for Something More#^kiln-map-received|Jump to scene]])
+- Met [[Chisum]] at a curiosities and alchemist shop while trying to sell demiplane goods ([[Session 2 - Mutual Ache for Something More#^chisum-met|Jump to scene]])
+- Agreed to visit [[Chisum]]'s home to further investigate some items ([[Session 2 - Mutual Ache for Something More#^chisum-met|Jump to scene]])
+- Remained cheerfully, blissfully oblivious to Chisum's apparent interest in him ([[Session 2 - Mutual Ache for Something More#^chisum-met|Jump to scene]])
 
 ---
 

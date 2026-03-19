@@ -25,13 +25,13 @@ aliases:
 ---
 ## At a Glance
 
-|            **Race** | *Needs more info*       |
+|            **Race** | #inforequired       |
 | ------------------: | ----------------------- |
 |           **Class** | Barbarian (Wild Magic)  |
-|      **Background** | *Needs more info*       |
-|             **Age** | *Needs more info*       |
-| **Height / Weight** | *Needs more info*       |
-|       **Languages** | *Needs more info*       |
+|      **Background** | #inforequired       |
+|             **Age** | #inforequired       |
+| **Height / Weight** | #inforequired       |
+|       **Languages** | #inforequired       |
 |        **Pronouns** | They/them               |
 
 ---
@@ -46,7 +46,7 @@ When things *are* dire, Drakka is a force. They dealt the decisive blow to the f
 ---
 ## Backstory
 
-*Needs more info - ask the player for their full backstory!*
+#inforequired - Full backstory needed
 
 What we know from the session 3 flashback: Drakka has a military/soldiering background. They were sparring with fellow soldiers when they learned they couldn't get time off for the birth of their child. In the original memory, they went off to war and missed the birth. In the revisited version, they chose to run to their partner and were there for their firstborn.
 
@@ -55,7 +55,7 @@ Drakka has a partner and at least one child.
 ---
 ## Pre-Campaign Connections
 
-*Needs more info - does Drakka know any of the other PCs from before the campaign? The DM mentioned Drakka may have been to The Broken Umbrella - ask the player!*
+#inforequired - Pre-campaign connections unknown (possibly The Broken Umbrella?)
 
 - **Rosetta** - Someone very close to Drakka. Drakka made a point of purchasing a gift for Rosetta's birthday and waited outside the auction house for her arrival. The nature of their relationship hasn't been fully revealed yet.
 
@@ -71,7 +71,7 @@ Drakka has a partner and at least one child.
 - Recognized the Scroll of the Three Principles as a valuable treasure from their culture
 
 ### Items of Note
-- *Full inventory needs more info*
+- #inforequired - Full inventory
 
 ---
 ## Session Appearances
@@ -88,24 +88,24 @@ Drakka has a partner and at least one child.
 - **Flashback:** Re-lived a sparring session with fellow soldiers; learned they couldn't get time off for the birth of their child; chose to run to the birth anyway, sharing the moment with their partner and newborn
 
 ### Session 1 - [[Session 1 - Of Marrow & Maple|Of Marrow & Maple]]
-- Covered [[Brog]] with insect specimens as a prank while he was summoning familiars
-- Attempted to prank [[Elara]] by throwing a spider specimen at her
-- Found a fossil room with missing pieces
-- Took nasty hits from the first Helmed Horror alongside [[Zalros]]
-- Dealt the decisive blow to the Helmed Horror, caving in its helmet and causing it to fade to dust
-- Consumed fey mushrooms that granted advantage against deception and persuasion from fey
+- Covered [[Brog]] with insect specimens as a prank while he was summoning familiars ([[Session 1 - Of Marrow & Maple#^gem-of-brightness|Jump to scene]])
+- Attempted to prank [[Elara]] by throwing a spider specimen at her ([[Session 1 - Of Marrow & Maple#^amethyst-geode|Jump to scene]])
+- Found a fossil room with missing pieces ([[Session 1 - Of Marrow & Maple#^fossil-placed|Jump to scene]])
+- Took nasty hits from the first Helmed Horror alongside [[Zalros]] ([[Session 1 - Of Marrow & Maple#^helmed-horror-fight|Jump to scene]])
+- Dealt the decisive blow to the Helmed Horror, caving in its helmet and causing it to fade to dust ([[Session 1 - Of Marrow & Maple#^helmed-horror-fight|Jump to scene]])
+- Consumed fey mushrooms that granted advantage against deception and persuasion from fey ([[Session 1 - Of Marrow & Maple#^fey-mushrooms|Jump to scene]])
 
 ### Session 2 - [[Session 2 - Mutual Ache for Something More|Mutual Ache for Something More]]
-- Found the Scroll of the Three Principles - recognized it as culturally significant to their people
-- Disarmed [[Artemis]] after Artemis struck them with a display sword
-- Shopped for a perfume as a birthday gift for Rosetta, but balked at the 40 GP price
-- Purchased a single flower instead
-- Waited outside the auction house for Rosetta's arrival
-- Watched as the coffin Rosetta came to acquire cracked open on stage
+- Found the Scroll of the Three Principles - recognized it as culturally significant to their people ([[Session 2 - Mutual Ache for Something More#^scroll-destroyed|Jump to scene]])
+- Disarmed [[Artemis]] after Artemis struck them with a display sword ([[Session 2 - Mutual Ache for Something More#^museum-room|Jump to scene]])
+- Shopped for a perfume as a birthday gift for Rosetta, but balked at the 40 GP price ([[Session 2 - Mutual Ache for Something More#^drakka-flower|Jump to scene]])
+- Purchased a single flower instead ([[Session 2 - Mutual Ache for Something More#^drakka-flower|Jump to scene]])
+- Waited outside the auction house for Rosetta's arrival ([[Session 2 - Mutual Ache for Something More#^auction-house|Jump to scene]])
+- Watched as the coffin Rosetta came to acquire cracked open on stage ([[Session 2 - Mutual Ache for Something More#^coffin-cliffhanger|Jump to scene]])
 
 ---
 ## Current Goals (Post-Session 2)
 
-- **Long-term:** *Needs more info - ask the player!*
-- **Short-term:** *Needs more info*
+- **Long-term:** #inforequired
+- **Short-term:** #inforequired
 - **Personal:** Whatever is inside that coffin at the auction house - Drakka was front and center when it cracked open, alongside Rosetta.
