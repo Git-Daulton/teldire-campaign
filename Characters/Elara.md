@@ -79,15 +79,23 @@ She also seems to relate to Miragryx's eagerness to return home - both share a d
 ---
 ## Session Appearances
 
+### Pre-Campaign Sessions (Warmup Arc)
+- Examined Fox and Bryn's bodies at the dugout alongside [[Zalros]], discovering the arrow belonged to roaming plains bandits
+- Stealthily placed culturally significant tokens on Fox's and Bryn's bodies as they were bagged
+- Shot a wooden squirrel's head off to investigate it, then gaslighted the squirrel that she didn't shoot it
+- Told the squirrel about "floaters" to cover for the arrow - it was convinced
+- Delivered both killing blows to the Death Kiss and the Spectator with her arrows
+- Related to Miragryx's eagerness to return home; shared a night watch discussing their desire to fix what's broken back in Teldire
+- Had an intense nightmare about her sister being deceased - gained 1 point of exhaustion
+- **Flashback:** Re-lived the final night with her sister - the last time they spoke before their paths diverged; knew this was the moment before she left for the frontier and her sister stayed behind
+
 ### Session 1 - [[Session 1 - Of Marrow & Maple|Of Marrow & Maple]]
 - Joined [[Zalros]] in entering Samwell's cottage, triggering the sensor lights
-- Stealthily placed culturally significant tokens on Fox's and Bryn's bodies
 - Found the sliding door room containing geodes, the dragon-headed goldfish, and a fossil piece
 - Found an amethyst geode worth ~15 gp
 - Took a pocket full of birdseed (which has proven endlessly useful)
 - Examined bodies throughout the basement, finding gold, silver, and a silver dagger
 - Found the final fossil pieces and completed one of the displays
-- Delivered both killing blows to the Death Kiss and the Spectator in the demiplane
 
 ### Session 2 - [[Session 2 - Mutual Ache for Something More|Mutual Ache for Something More]]
 - Threw birdseed to draw the attention of the Helmed Horror
@@ -98,10 +106,6 @@ She also seems to relate to Miragryx's eagerness to return home - both share a d
 - Purchased arrows and mystery scrolls (purple and green) at a general store
 - Met [[Jarvis]] at the adventurer's guild and received his calling stone
 - Jarvis promised to find information on her sister, Asta Vale
-
-### Session 3 Flashback
-- Re-lived the final night with her sister - the last time they spoke before their paths diverged
-- Knew this was the moment before she left for the frontier and her sister stayed behind
 
 ---
 ## Current Goals (Post-Session 2)

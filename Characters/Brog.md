@@ -74,6 +74,14 @@ Brog's Wild Shape has been substituted/altered toward **summoning-based play** r
 ---
 ## Session Appearances
 
+### Pre-Campaign Sessions (Warmup Arc)
+- Talked to a wooden chipmunk about the area; first to realize the forest animals were made of wood (Enchanted / Transmutation magic)
+- Got empathetic and upset when [[Elara]] shot a wooden squirrel's head off; tried to bury it
+- Bonded closely with "Blue" ([[Oswald]]), telling him about how friends are what keeps him brave - Blue deeply resonated with this
+- Summoned Hootie to scout paths; became fierce and determined to seek revenge when Hootie was struck by something
+- Blew the party's cover by standing up to confront the Death Kiss, driven by his desire to protect Hootie
+- **Flashback:** Found a grassy mound that was actually a sleeping hill giant; in the original memory, he left it asleep; in the revisited version, chose to wake it so it could protect the forest from an unnamed future threat
+
 ### Session 1 - [[Session 1 - Of Marrow & Maple|Of Marrow & Maple]]
 - Heard the porcelain doll say "I only wanted candy..."
 - Found books on creature/monster biology
@@ -93,10 +101,6 @@ Brog's Wild Shape has been substituted/altered toward **summoning-based play** r
 - Purchased a truffle-hunting pig at the Gosslupe market, speaking with the pigs directly to choose one
 - Returned to the farm to find his mother worried sick and the property in disrepair
 - Promised to help right the farm and told his mother to rest
-
-### Session 3 Flashback
-- Found a grassy mound that was actually a sleeping hill giant
-- In the original memory, he left it asleep; in the revisited version, chose to wake it so it could protect the forest from an unnamed future threat
 
 ---
 ## Current Goals (Post-Session 2)

@@ -91,9 +91,15 @@ His real dream? A peaceful retirement. Somewhere secluded, in the middle of nowh
 ---
 ## Session Appearances
 
-### Session 1 - [[Session 1 - Of Marrow & Maple|Of Marrow & Maple]]
+### Pre-Campaign Sessions (Warmup Arc)
+- Was turned into a floating blue orb by [[Drakka]]'s wild magic surge - could see everything but couldn't speak or be harmed
+- Followed the grazing patterns of wooden creatures to track toward the tower
+- Heard sounds of fear, alerting the party to [[Lacey]]'s location
 - Performed an open prayer over Fox's body, providing a sense of zen for the group
-- Discovered Bryn's odd tattoo-like mark
+- Discovered Bryn's odd tattoo-like mark on one of the fallen adventurers
+- **Flashback:** Re-lived a memory of protecting a village from lions; discovered soldiers illegally trying to sell lion cubs for profit; chose to stop them and save the cubs
+
+### Session 1 - [[Session 1 - Of Marrow & Maple|Of Marrow & Maple]]
 - Found a hollowed-out book containing a small arcane key
 - Used the communion stone to contact [[Samwell]] and ask about Jerry and the bodies
 - Found the longsword encased in a locked glass display
@@ -104,11 +110,6 @@ His real dream? A peaceful retirement. Somewhere secluded, in the middle of nowh
 - Made a decisive critical blow against the Helmed Horror, severing the energy holding the construct together in a single strike
 - Helped return a dropped crate of eggs to a Sunderland boy and his father at the Gosslupe gates
 - Reunited with [[Elara]] and [[Zalros]] for a meal in the city
-
-### Session 3 Flashback
-- Re-lived a memory of protecting a village from lions
-- Discovered soldiers illegally trying to sell lion cubs for extra profit
-- Chose to stop them and save the cubs
 
 ---
 ## Current Goals (Post-Session 2)

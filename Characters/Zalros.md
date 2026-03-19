@@ -148,6 +148,16 @@ Prestidigitation, Mage Hand, Mending, Light, Sacred Flame, Mind Sliver, Control 
 
 ## Session Appearances
 
+### Pre-Campaign Sessions (Warmup Arc)
+- First to spot the shiny blue tower shape in the distance above the trees
+- Examined Fox's body at the dugout alongside [[Elara]], discovering the arrow belonged to roaming plains bandits
+- Assessed the dark motes as young aberrations recently created by a stronger aberration somewhere in the cosmos
+- Assessed the goop left behind by fallen motes as worth 25 gp a vial
+- Gleaned the Death Kiss's surface thoughts during battle, discovering it was "paid for a job"
+- Taught [[Lacey]] about coin economics, leading to her analogy about small things doing a lot
+- Guided the party's travel toward the tower without losing direction
+- **Flashback:** Talked with Benadeer at an inn; convinced him to stay longer. Benadeer asked about Vesamear Fig and a recent experiment involving a transfigured crow; the memory ended shortly after
+
 ### Session 1 - [[Session 1 - Of Marrow & Maple|Of Marrow & Maple]]
 - Led the way into [[Samwell]]'s cottage, first to peek inside
 - Found a book granting advantage against aberrations

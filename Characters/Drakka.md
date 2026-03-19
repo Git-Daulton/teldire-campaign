@@ -76,6 +76,17 @@ Drakka has a partner and at least one child.
 ---
 ## Session Appearances
 
+### Pre-Campaign Sessions (Warmup Arc)
+- Keenly noticed the dark void circles in the woods and movement in the clearing upon arriving in the demiplane
+- Noticed even the flies were made of wood
+- Found [[Lacey]] stuck in vines, pinned her head down with her foot to hold her in place while calling the others
+- Wild magic surge turned [[Shamash]] into a floating blue orb after Orange accidentally dropped a rock on Drakka's toe
+- Took first watch with Miragryx; backtracked 30 minutes to gather berries when she realized she was famished
+- Convinced an angry wooden buck to leave her alone by claiming she was with [[Lacey]]
+- Struck up a conversation with Miragryx, impressed after she killed 6 motes during Drakka's absence
+- Kicked [[Elara]] awake (rudely) from her nightmare
+- **Flashback:** Re-lived a sparring session with fellow soldiers; learned they couldn't get time off for the birth of their child; chose to run to the birth anyway, sharing the moment with their partner and newborn
+
 ### Session 1 - [[Session 1 - Of Marrow & Maple|Of Marrow & Maple]]
 - Covered [[Brog]] with insect specimens as a prank while he was summoning familiars
 - Attempted to prank [[Elara]] by throwing a spider specimen at her
@@ -91,11 +102,6 @@ Drakka has a partner and at least one child.
 - Purchased a single flower instead
 - Waited outside the auction house for Rosetta's arrival
 - Watched as the coffin Rosetta came to acquire cracked open on stage
-
-### Session 3 Flashback
-- Re-lived a sparring session with fellow soldiers
-- Learned they couldn't get time off for the birth of their child
-- Chose to run to the birth anyway, sharing the moment with their partner and newborn
 
 ---
 ## Current Goals (Post-Session 2)
