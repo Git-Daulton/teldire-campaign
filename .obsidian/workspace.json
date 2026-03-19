@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Teldire Bible.md",
+                "file": "Pre-Session 1 Snapshot.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Teldire Bible"
+              "title": "Pre-Session 1 Snapshot"
             }
           }
         ]
@@ -192,15 +192,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "912a5bf037566d54",
+  "active": "b59979966d692cd9",
   "lastOpenFiles": [
-    "Zalros - Full Deep Dive.md",
+    "Session Notes/Session 1 - Of Marrow & Maple.md",
+    "Character Lore",
+    "Character Photos/Figurine Companions",
+    "Character Photos/Figurine Companions/Artemis.png",
+    "Character Photos/NPCs/Vesamir Fig.png",
+    "Session Notes/Session 2 - Mutual Ache for Something More.md",
+    "Character Photos/NPCs",
+    "Character Photos/PCs",
+    "Session Notes",
+    "ETC/Shamash Claude Prompt (LV7).md",
+    "Pre-Session 1 Snapshot.md",
+    "Character Lore/Zalros - Full Deep Dive.md",
     "Obsidian Tips for Teldire.md",
-    "Teldire Bible.md",
     "Helmed Horror.md",
     "Longsword +3.md",
     "Samwell.md",
-    "Session 2 - Mutual Ache for Something More.md",
     "Session 2 - Example With Obsidian Features.md",
     "Untitled 1.base",
     "Untitled.canvas",
@@ -208,25 +217,16 @@
     "Obsidian Tips for Teldire.md.tmp.34640.1773881590002",
     "Session 2 - Example With Obsidian Features.md.tmp.34640.1773881564571",
     "Obsidian Tips for Teldire.md.tmp.34640.1773881454260",
-    "Obsidian Tips for Teldire.md.tmp.34640.1773881445061",
-    "Obsidian Tips for Teldire.md.tmp.34640.1773881437539",
-    "Obsidian Tips for Teldire.md.tmp.34640.1773881429107",
-    "Session 2 - Example With Obsidian Features.md.tmp.34640.1773881395899",
-    "Session 1 - Of Marrow & Maple.md",
-    "Character Photos/Chisum.png",
-    "Character Photos/ps2023.tmp",
-    "Character Photos/Tessa.png",
-    "Character Photos/General Store Clerk.png",
-    "Character Photos/Jarvis.png",
-    "Character Photos/Zalros.png",
-    "Character Photos/Elara.png",
-    "Character Photos/Oswald.png",
-    "Character Photos/Artemis.png",
+    "Character Photos/NPCs/Chisum.png",
+    "Character Photos/NPCs/Tessa.png",
+    "Character Photos/NPCs/General Store Clerk.png",
+    "Character Photos/NPCs/Jarvis.png",
+    "Character Photos/PCs/Zalros.png",
+    "Character Photos/PCs/Elara.png",
+    "Character Photos/Figurine Companions/Oswald.png",
     "2026-03-15.md",
     "Untitled 1.canvas",
-    "Character Photos/Vesamir Fig.png",
-    "Character Photos/Brog.png",
-    "ETC/Shamash Claude Prompt (LV7).md",
+    "Character Photos/PCs/Brog.png",
     "Skeleton Crew - Session 1 Snapshot.md",
     "Welcome.md",
     "create a link.md"
