@@ -82,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Oswald",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -103,7 +103,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -223,6 +224,14 @@
   },
   "active": "8310153675799e0f",
   "lastOpenFiles": [
+    "Character Photos/Chisum.png",
+    "Character Photos/ps2023.tmp",
+    "Character Photos/Tessa.png",
+    "Character Photos/ps1E62.tmp",
+    "Character Photos/General Store Clerk.png",
+    "Character Photos/ps7DFA.tmp",
+    "Character Photos/Jarvis.png",
+    "Character Photos/psFE3A.tmp",
     "Session 1 - Of Marrow & Maple.md",
     "Session 2 - Longing for Something More.md",
     "Untitled.base",
@@ -243,12 +252,9 @@
     "New folder",
     "Skeleton Crew - Session 1 Snapshot.md",
     "Character Photos/Shamash.png",
-    "Character Photos/Drakka.png",
     "Character Photos",
     "ETC",
     "Welcome.md",
-    "Character Photos/Miragyrx.png",
-    "Character Photos/Lacey.png",
     "create a link.md"
   ]
 }
