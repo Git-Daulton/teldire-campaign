@@ -15,19 +15,18 @@ aliases:
 
 ## At a Glance
 
-| | |
-|---|---|
-| **Race** | Human |
-| **Class** | Warlock 5 (Celestial, Tomelock) |
-| **Background** | Sage (Researcher) |
-| **Age** | 48 |
-| **Height / Weight** | 6'03" / 195 lbs |
-| **Eyes** | Yellow |
-| **Skin** | Golden tan |
-| **Hair** | Obsidian |
-| **Alignment** | NC |
-| **Languages** | Common, Elvish, Draconic, Celestial |
-| **Patron** | The Jeering Sparrow |
+|            **Race** | Human                               |
+| ------------------: | ----------------------------------- |
+|           **Class** | Warlock (Celestial, Tomelock)       |
+|      **Background** | Sage (Researcher)                   |
+|             **Age** | 48                                  |
+| **Height / Weight** | 6'03" / 195 lbs                     |
+|            **Eyes** | Yellow                              |
+|            **Skin** | Golden tan                          |
+|            **Hair** | Obsidian                            |
+|       **Alignment** | NC                                  |
+|       **Languages** | Common, Elvish, Draconic, Celestial |
+|          **Patron** | The Jeering Sparrow                 |
 
 ---
 
