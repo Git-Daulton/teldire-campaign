@@ -71,7 +71,7 @@ Returning to Drakka, they found themselves outside of the auction house awaiting
 ---
 # Key Loot / Items:
 
-- **Longsword +3** - A beautifully storied weapon with three gem slots that determine its damage type on each hit. Normal rocks placed in the slots will slowly transform into gems over 1d4 months. Requires attunement. (The party has also collectively decided it is Jewish and celebrates Hanukkah.)
+- **Longsword +3** - A beautifully storied weapon with three gem slots that determine its damage type on each hit. Normal rocks placed in the slots will slowly transform into gems over 1d4 months. Requires attunement. (The party has also collectively decided it is Jewish and celebrates Hanukkah.) 
 
 - **Mystery Scrolls - Purple & Green** - Purchased by Elara at a discount due to entirely unknown effects. Handle with appropriate curiosity.
 
