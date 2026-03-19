@@ -175,14 +175,14 @@ The `#` means "this file" - for cross-file links, use the full filename:
 - Use lowercase with hyphens (no spaces)
 - The block ID line must be on its own line with a blank line before it
 
-You can also build a **Locations Visited** table using block IDs to show every time a place comes up:
+You can also build a **Locations Visited** list using block IDs to show every time a place comes up:
 
 ```markdown
-| Location | Visits |
-|---|---|
-| Samwell's Storage Room | [[#^storage-room-figurines|Figurines]], [[#^storage-room-teleportation-circle|Teleportation circle]] |
-| Gosslupe Market | [[#^gobblin-it-up|Gobblin' it Up]], [[#^pig-purchased|Brog's pig]], [[#^mystery-scrolls-purchased|Scrolls]] |
+- **Samwell's Storage Room** - [[#^storage-room-figurines|Figurines]] / [[#^storage-room-teleportation-circle|Teleportation circle]]
+- **Gosslupe Market** - [[#^gobblin-it-up|Gobblin' it Up]] / [[#^pig-purchased|Brog's pig]] / [[#^mystery-scrolls-purchased|Scrolls]]
 ```
+
+> **Pro tip:** Avoid using aliased links (`[[link|text]]`) inside markdown tables - the `|` in the link conflicts with the table's cell separators and Obsidian's linter will break them. Lists work great for this instead!
 
 Check out the **Session 2 - Example With Obsidian Features** file in this branch to see all of this wired up and working!
 

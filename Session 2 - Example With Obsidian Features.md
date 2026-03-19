@@ -121,17 +121,15 @@ Eventually, a coffin was dragged on stage; Rosetta claimed that this was the ver
 
 ## Locations Visited This Session
 
-| Location | Visits |
-|---|---|
-| Samwell's Storage Room | [[#^storage-room-figurines|Finding the figurines]], [[#^storage-room-teleportation-circle|Teleportation circle]] |
-| Museum Room | [[#^scroll-destroyed|Scroll of Three Principles]], [[#^museum-room|Artemis and the displays]], [[#^longsword-found|The longsword]] |
-| The Dugout | [[#^dugout-sealed|Sealed off by the guild]] |
-| Gosslupe City Gates | [[#^gosslupe-arrival|Arrival and the Sunderland boy]] |
-| Gosslupe Market | [[#^gobblin-it-up|Gobblin' it Up]], [[#^pig-purchased|Brog's pig]], [[#^drakka-flower|Drakka's flower]], [[#^mystery-scrolls-purchased|Mystery scrolls]] |
-| Adventurer's Guild | [[#^jarvis-met|Meeting Jarvis]] |
-| Chisum's Shop | [[#^chisum-met|Meeting Chisum]] |
-| Brog's Farm | [[#^brog-farm-return|Returning home]] |
-| Auction House | [[#^auction-house|Rosetta's arrival]], [[#^coffin-cliffhanger|The coffin]] |
+- **Samwell's Storage Room** - [[#^storage-room-figurines|Finding the figurines]] / [[#^storage-room-teleportation-circle|Teleportation circle]]
+- **Museum Room** - [[#^scroll-destroyed|Scroll of Three Principles]] / [[#^museum-room|Artemis and the displays]] / [[#^longsword-found|The longsword]]
+- **The Dugout** - [[#^dugout-sealed|Sealed off by the guild]]
+- **Gosslupe City Gates** - [[#^gosslupe-arrival|Arrival and the Sunderland boy]]
+- **Gosslupe Market** - [[#^gobblin-it-up|Gobblin' it Up]] / [[#^pig-purchased|Brog's pig]] / [[#^drakka-flower|Drakka's flower]] / [[#^mystery-scrolls-purchased|Mystery scrolls]]
+- **Adventurer's Guild** - [[#^jarvis-met|Meeting Jarvis]]
+- **Chisum's Shop** - [[#^chisum-met|Meeting Chisum]]
+- **Brog's Farm** - [[#^brog-farm-return|Returning home]]
+- **Auction House** - [[#^auction-house|Rosetta's arrival]] / [[#^coffin-cliffhanger|The coffin]]
 
 ---
 
