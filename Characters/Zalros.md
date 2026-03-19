@@ -132,9 +132,6 @@ Prestidigitation, Mage Hand, Mending, Light, Sacred Flame, Mind Sliver, Control 
 ### Magic Item
 - **Illuminator's Tattoo** - Attunement. Infinite ink from fingertip. Can make writing invisible to everyone except Zalros + one named creature for 24 hours, once per day.
 
-### Combat Style
-Keep turns fast. Default to Eldritch Blast. Use Healing Light as a "save someone now" button. Use Shadow Step to rescue or reposition when needed.
-
 ---
 
 ## Session Appearances
