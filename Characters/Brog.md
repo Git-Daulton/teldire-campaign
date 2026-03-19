@@ -28,9 +28,9 @@ aliases:
 |            **Race** | Half-orc             |
 | ------------------: | -------------------- |
 |           **Class** | Druid (Homebrew)     |
-|      **Background** | *Needs more info*    |
-|             **Age** | *Needs more info*    |
-| **Height / Weight** | *Needs more info*    |
+|      **Background** | #inforequired    |
+|             **Age** | #inforequired    |
+| **Height / Weight** | #inforequired    |
 |       **Languages** | Common, + *others?*  |
 
 ---
@@ -45,14 +45,14 @@ Despite his gentle nature, Brog will turn fierce when it matters. He once blew t
 ---
 ## Backstory
 
-*Needs more info - ask the player for their backstory!*
+#inforequired - Full backstory needed
 
 What we do know: Brog owns a farm back in Teldire and works to protect the animals that inhabit it and the surrounding woods. He lives with his mother, who runs a market stall in Gosslupe.
 
 ---
 ## Pre-Campaign Connections
 
-*Needs more info - does Brog know any of the other PCs from before the campaign? Ask the player!*
+#inforequired - Pre-campaign connections unknown
 
 - **Brog's Mom** - His mother, who runs a stall at the Gosslupe market. She was worried sick when the party was away for several days.
 
@@ -69,7 +69,7 @@ Brog's Wild Shape has been substituted/altered toward **summoning-based play** r
 - **Ritual Casting** - Used to summon familiars
 
 ### Spells Observed in Play
-- *Full spell list needs more info - ask the player!*
+- #inforequired - Full spell list
 
 ---
 ## Session Appearances
@@ -108,4 +108,4 @@ Brog's Wild Shape has been substituted/altered toward **summoning-based play** r
 - **Long-term:** Master the "Grant Existence" spell from [[Samwell]]'s instructions - a very long and challenging process, but one he's committed to pursuing.
 - **Short-term:** Get the farm back in order and help his mother after their time away.
 - **Personal:** Bond with and train alongside [[Oswald]], who bonded closely with Brog during the demiplane.
-- *Ask the player for more goals!*
+- #inforequired - Additional goals

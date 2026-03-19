@@ -34,7 +34,7 @@ aliases:
 | **Height / Weight** | 6'02" / 300 lbs                |
 |            **Eyes** | Light blue                     |
 |      **Appearance** | Shiny blue scales              |
-|       **Languages** | *Needs more info*              |
+|       **Languages** | #inforequired              |
 
 ---
 ## Personality
@@ -115,5 +115,5 @@ His real dream? A peaceful retirement. Somewhere secluded, in the middle of nowh
 ## Current Goals (Post-Session 2)
 
 - **Long-term:** Save enough gold to purchase his own secluded little paradise and retire in peace.
-- **Short-term:** *Needs more info - ask Nikole!*
-- **Personal:** *Needs more info*
+- **Short-term:** #inforequired
+- **Personal:** #inforequired

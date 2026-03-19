@@ -25,13 +25,13 @@ aliases:
 ---
 ## At a Glance
 
-|            **Race** | *Needs more info*       |
+|            **Race** | #inforequired       |
 | ------------------: | ----------------------- |
 |           **Class** | Barbarian (Wild Magic)  |
-|      **Background** | *Needs more info*       |
-|             **Age** | *Needs more info*       |
-| **Height / Weight** | *Needs more info*       |
-|       **Languages** | *Needs more info*       |
+|      **Background** | #inforequired       |
+|             **Age** | #inforequired       |
+| **Height / Weight** | #inforequired       |
+|       **Languages** | #inforequired       |
 |        **Pronouns** | They/them               |
 
 ---
@@ -46,7 +46,7 @@ When things *are* dire, Drakka is a force. They dealt the decisive blow to the f
 ---
 ## Backstory
 
-*Needs more info - ask the player for their full backstory!*
+#inforequired - Full backstory needed
 
 What we know from the session 3 flashback: Drakka has a military/soldiering background. They were sparring with fellow soldiers when they learned they couldn't get time off for the birth of their child. In the original memory, they went off to war and missed the birth. In the revisited version, they chose to run to their partner and were there for their firstborn.
 
@@ -55,7 +55,7 @@ Drakka has a partner and at least one child.
 ---
 ## Pre-Campaign Connections
 
-*Needs more info - does Drakka know any of the other PCs from before the campaign? The DM mentioned Drakka may have been to The Broken Umbrella - ask the player!*
+#inforequired - Pre-campaign connections unknown (possibly The Broken Umbrella?)
 
 - **Rosetta** - Someone very close to Drakka. Drakka made a point of purchasing a gift for Rosetta's birthday and waited outside the auction house for her arrival. The nature of their relationship hasn't been fully revealed yet.
 
@@ -71,7 +71,7 @@ Drakka has a partner and at least one child.
 - Recognized the Scroll of the Three Principles as a valuable treasure from their culture
 
 ### Items of Note
-- *Full inventory needs more info*
+- #inforequired - Full inventory
 
 ---
 ## Session Appearances
@@ -106,6 +106,6 @@ Drakka has a partner and at least one child.
 ---
 ## Current Goals (Post-Session 2)
 
-- **Long-term:** *Needs more info - ask the player!*
-- **Short-term:** *Needs more info*
+- **Long-term:** #inforequired
+- **Short-term:** #inforequired
 - **Personal:** Whatever is inside that coffin at the auction house - Drakka was front and center when it cracked open, alongside Rosetta.

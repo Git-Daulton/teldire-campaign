@@ -25,13 +25,13 @@ aliases:
 ---
 ## At a Glance
 
-|            **Race** | *Needs more info*    |
+|            **Race** | #inforequired    |
 | ------------------: | -------------------- |
 |           **Class** | Rogue (Thief)        |
-|      **Background** | *Needs more info*    |
-|             **Age** | *Needs more info*    |
-| **Height / Weight** | *Needs more info*    |
-|       **Languages** | *Needs more info*    |
+|      **Background** | #inforequired    |
+|             **Age** | #inforequired    |
+| **Height / Weight** | #inforequired    |
+|       **Languages** | #inforequired    |
 
 ---
 ## Personality
@@ -45,7 +45,7 @@ She has a dry wit and isn't easily shaken. When [[Drakka]] threw a spider specim
 ---
 ## Backstory
 
-*Needs more info - ask the player for their full backstory!*
+#inforequired - Full backstory needed
 
 What we know: Elara has a sister named **Asta Vale** who she is searching for. The two split paths at some point - Elara went to the frontier, while her sister stayed behind. The session 3 flashback revealed that Elara re-lived the final night she and her sister spoke, and she was acutely aware it would be the last time before they parted ways.
 
@@ -56,7 +56,7 @@ She also seems to relate to Miragryx's eagerness to return home - both share a d
 ---
 ## Pre-Campaign Connections
 
-*Needs more info - does Elara know any of the other PCs or NPCs from before the campaign? Ask the player!*
+#inforequired - Pre-campaign connections unknown
 
 ---
 ## Abilities & Magic
@@ -69,7 +69,7 @@ She also seems to relate to Miragryx's eagerness to return home - both share a d
 
 ### Weapons
 - Bow and arrows (primary)
-- *Other weapons? Needs more info*
+- #inforequired - Other weapons unknown
 
 ### Items of Note
 - **Jarvis' Calling Stone** - Given by [[Jarvis]] to relay information about Asta Vale
@@ -111,5 +111,5 @@ She also seems to relate to Miragryx's eagerness to return home - both share a d
 ## Current Goals (Post-Session 2)
 
 - **Long-term:** Find her sister, Asta Vale. [[Jarvis]] has promised to dig up information using his calling stone.
-- **Short-term:** *Needs more info - ask the player!*
-- **Personal:** *Needs more info*
+- **Short-term:** #inforequired
+- **Personal:** #inforequired
