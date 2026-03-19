@@ -6,7 +6,6 @@ tags:
   - human
 aliases:
   - Zalros Mi'hen
-  - Zarlo
 ---
 
 # Zalros Mi'hen
